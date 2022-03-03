@@ -1,0 +1,17 @@
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\bin\Debug\net6.0-windows\Math_Calculator.exe
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\bin\Debug\net6.0-windows\Math_Calculator.deps.json
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\bin\Debug\net6.0-windows\Math_Calculator.runtimeconfig.json
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\bin\Debug\net6.0-windows\Math_Calculator.dll
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\bin\Debug\net6.0-windows\ref\Math_Calculator.dll
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\bin\Debug\net6.0-windows\Math_Calculator.pdb
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.csproj.AssemblyReference.cache
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.mainForm.resources
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.dll
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\ref\Math_Calculator.dll
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.pdb
+C:\Users\bilal\OneDrive\Desktop\Files\C# Programs\Math_Calculator\Math_Calculator\obj\Debug\net6.0-windows\Math_Calculator.genruntimeconfig.cache
